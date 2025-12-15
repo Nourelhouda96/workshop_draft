@@ -1,0 +1,23 @@
+﻿SampleID;Region;Date;Stress;Bacterization;Treatment;Drought;Bacteria
+TR1_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR2_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR3_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR4_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR5_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR6_Str_NI;Sfax West;20240927;Drought;No_Bacteria;Drought;Yes;No
+TR9_NStr_NI;Sfax West;20240927;No_Drought;No_Bacteria;Control;No;No
+TR10_NStr_NI;Sfax West;20240927;No_Drought;No_Bacteria;Control;No;No
+TR11_NStr_NI;Sfax West;20240927;No_Drought;No_Bacteria;Control;No;No
+TR12_NStr_NI;Sfax West;20240927;No_Drought;No_Bacteria;Control;No;No
+TR13_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR14_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR15_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR16_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR17_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR18_Str_I;Sfax West;20240927;Drought;Bacteria;Drought_Bacteria;Yes;Yes
+TR19_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
+TR20_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
+TR21_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
+TR22_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
+TR23_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
+TR24_NStr_I;Sfax West;20240927;No_Drought;Bacteria;Bacteria;No;Yes
