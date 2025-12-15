@@ -1,13 +1,13 @@
-name: microbiome
 channels:
   - conda-forge
   - bioconda
 dependencies:
-  - r-base=4.3
+  - r-base=4.5
   - bioconductor-phyloseq
   - bioconductor-biostrings
-  - r-igraph
+  - bioconductor-limma
   - r-vegan
+  - r-igraph
   - r-ggplot2
   - r-dplyr
   - r-remotes
