@@ -1,4 +1,3 @@
-## CRAN packages (not handled by Conda)
 install.packages(c(
   "plyr",
   "formattable",
@@ -11,8 +10,6 @@ install.packages(c(
   "ggpubr"
 ))
 
-## GitHub packages
 install.packages("remotes")
-
 remotes::install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
 remotes::install_github("mikemc/speedyseq")
