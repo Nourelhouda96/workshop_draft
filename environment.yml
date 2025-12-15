@@ -1,14 +1,7 @@
+name: binder-env
 channels:
   - conda-forge
-  - bioconda
 dependencies:
-  - r-base=4.5
-  - bioconductor-phyloseq
-  - bioconductor-biostrings
-  - bioconductor-limma
-  - r-vegan
-  - r-igraph
-  - r-ggplot2
-  - r-dplyr
-  - r-remotes
-# force rebuild
+  - python=3.10
+  - pip
+  # force rebuild
