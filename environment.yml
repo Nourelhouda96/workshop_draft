@@ -1,0 +1,13 @@
+name: microbiome
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-phyloseq
+  - r-igraph
+  - r-vegan
+  - r-ggplot2
+  - r-dplyr
+  - r-remotes
+  - libglpk
