@@ -1,20 +1,17 @@
-install.packages(c(
-  "plyr",
-  "dplyr",
-  "ggplot2",
-  "formattable",
-  "multcomp",
-  "multcompView",
-  "rstatix",
-  "emmeans",
-  "broom",
-  "Hmisc",
-  "ggpubr", 
-  "vegan",
-  "limma",
-  "rstatix",
-  "emmeans"
-))
+install.packages("plyr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("formattable")
+install.packages("multcomp")
+install.packages("multcompView")
+install.packages("rstatix")
+install.packages("emmeans")
+install.packages("broom")
+install.packages("Hmisc")
+install.packages("ggpubr")
+install.packages("vegan")
+install.packages("limma")
+
 install.packages("remotes")
 remotes::install_github("pmartinezarbizu/pairwiseAdonis/pairwiseAdonis")
 remotes::install_github("mikemc/speedyseq")
