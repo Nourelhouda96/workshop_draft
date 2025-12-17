@@ -11,7 +11,6 @@ library(limma)
 library(pairwiseAdonis)
 library(multcompView)
 
-
 ## -------------------------------------------------------------------------------------------
 #Load the data
 df_metadata <- read.csv("data/metadata.csv", header = TRUE, sep = ";", row.names = 1)
@@ -757,6 +756,7 @@ ggplot() +
   labs(title = "PCoA with Convex Hulls",
        x = paste0("Axis 1 [", round(ordu_sa_ra$values$Relative_eig[1]*100,1), "%]"),
        y = paste0("Axis 2 [", round(ordu_sa_ra$values$Relative_eig[2]*100,1), "%]"))
+
 
 
 
